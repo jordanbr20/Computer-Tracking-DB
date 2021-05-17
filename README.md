@@ -114,7 +114,7 @@ All admin settings are tracked in Admin_Transaction. It will note who changed wh
 ## Set-up
 **Set-up will be coming shortly**
 
-##Showcase
+## Showcase
 
 ![Main](https://user-images.githubusercontent.com/30568107/118569234-82cd8480-b747-11eb-924c-2cf5b70048c9.gif)
 ![LoginSystem](https://user-images.githubusercontent.com/30568107/118569249-882acf00-b747-11eb-9fc9-8be763be9631.gif)
