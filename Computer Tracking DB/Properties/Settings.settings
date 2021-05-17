@@ -1,0 +1,99 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ComputerTrackingDB.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DBConnection" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TestDBConnection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=GAMING-PC\SQL;Initial Catalog=ComputerTrackingDB;User ID=sa;Password=password;</Value>
+    </Setting>
+    <Setting Name="LiveDBConnection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=GAMING-PC\SQL;Initial Catalog=ComputerTrackingDB;User ID=sa;Password=password;</Value>
+    </Setting>
+    <Setting Name="ConnectionType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Live</Value>
+    </Setting>
+    <Setting Name="Version" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2021</Value>
+    </Setting>
+    <Setting Name="CurrentUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">WWID</Value>
+    </Setting>
+    <Setting Name="TechName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tech Name</Value>
+    </Setting>
+    <Setting Name="TechRole" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tech Role</Value>
+    </Setting>
+    <Setting Name="Station" Type="System.String" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Admin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="InventoryControl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="InventoryMove" Type="System.String" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="InventoryNew" Type="System.String" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LoginCompleted" Type="System.String" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="PageSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">1475, 829</Value>
+    </Setting>
+    <Setting Name="MainSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">1, 1</Value>
+    </Setting>
+    <Setting Name="TechID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Unknown</Value>
+    </Setting>
+    <Setting Name="DymoPrinterEnabled" Type="System.String" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="AuditMode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="AuditModeActivatedBy" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TechName</Value>
+    </Setting>
+    <Setting Name="DBVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Unknown</Value>
+    </Setting>
+    <Setting Name="SearchSerial" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Serial</Value>
+    </Setting>
+    <Setting Name="UserSearch" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Unknown</Value>
+    </Setting>
+    <Setting Name="LocationSearch" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Unknown</Value>
+    </Setting>
+    <Setting Name="FailedDBNoticeSent" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="AdminTechEmailCC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Unknown</Value>
+    </Setting>
+    <Setting Name="AdminAddTechEmailCC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Unknown</Value>
+    </Setting>
+    <Setting Name="NewInventoryEmailTo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Unknown</Value>
+    </Setting>
+    <Setting Name="NewInventoryEmailCC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Unknown</Value>
+    </Setting>
+    <Setting Name="DevPerms" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Impersonating" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
