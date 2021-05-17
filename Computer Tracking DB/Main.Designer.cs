@@ -579,7 +579,7 @@ namespace ComputerTrackingDB
             this.MinimumSize = new System.Drawing.Size(1219, 654);
             this.Name = "Main";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Computer Tracking DB Database";
+            this.Text = "Computer Tracking Database";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.Main_Load);
             this.panel2.ResumeLayout(false);
