@@ -528,7 +528,7 @@ namespace ComputerTrackingDB
             this.ComputerTrackingDBLabel.TabIndex = 0;
             this.ComputerTrackingDBLabel.Text = "Computer Tracking DB";
             this.ComputerTrackingDBLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.ComputerTrackingDBLabel.Click += new System.EventHandler(this.ComputerTrackingDBTitlelbl_Click);
+            this.ComputerTrackingDBLabel.Click += new System.EventHandler(this.Versionlbl_Click);
             // 
             // ConnectionPanel
             // 
