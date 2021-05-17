@@ -113,3 +113,12 @@ All admin settings are tracked in Admin_Transaction. It will note who changed wh
 		- This will also display is the location is active or inactive at the top.
 ## Set-up
 **Set-up will be coming shortly**
+
+##Showcase
+
+![Main](https://user-images.githubusercontent.com/30568107/118569234-82cd8480-b747-11eb-924c-2cf5b70048c9.gif)
+![LoginSystem](https://user-images.githubusercontent.com/30568107/118569249-882acf00-b747-11eb-9fc9-8be763be9631.gif)
+![ScanInOutSearch](https://user-images.githubusercontent.com/30568107/118569256-8cef8300-b747-11eb-88f4-989fbd92ce90.gif)
+![Inventory](https://user-images.githubusercontent.com/30568107/118569259-8f51dd00-b747-11eb-95a6-b4033f3f96ee.gif)
+![PrintLabels](https://user-images.githubusercontent.com/30568107/118569263-91b43700-b747-11eb-88d1-62e37b51f40c.gif)
+
